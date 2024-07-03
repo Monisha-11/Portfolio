@@ -1,0 +1,76 @@
+body{
+    margin: 30px;
+    font-family: "Young Serif", serif;;
+}
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.me{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.contact{
+    background-color:rgb(246, 92, 92);
+    width: 95px;
+    padding:5px;
+    border-radius: 3px;
+}
+.contact:hover{
+    background-color: rgb(85, 230, 85);
+}
+.about{
+    font-size: 20px;
+}
+.p{
+    font-size: 20px;
+}
+/* .interest li,.project li{
+    list-style: none;
+} */
+.interest{
+    font-size: 20px;
+    background-color: rgb(246, 92, 92);
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    vertical-align: top;
+}
+.project{
+    font-size: 20px;
+    background-color: rgb(246, 92, 92);
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;  
+    vertical-align: top;
+}
+.interest:hover{
+    background-color: rgb(85, 230, 85);
+}
+.project:hover{
+    background-color: rgb(85, 230, 85);
+}
+.social{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.git{
+    color: skyblue;
+}
+.git:hover{
+    color:  rgb(85, 230, 85);
+}
+

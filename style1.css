@@ -1,0 +1,76 @@
+body{
+    margin: 30px;
+    font-family: "Young Serif", serif;
+}
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.me{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.home{
+    background-color:rgb(246, 92, 92);
+    width: 95px;
+    padding:5px;
+    border-radius: 3px;
+}
+.home:hover{
+    background-color: rgb(85, 230, 85);
+}
+.details{
+    font-size: 25px;
+}
+.social{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.git{
+    color: skyblue;
+}
+.git:hover{
+    color:  rgb(85, 230, 85);
+}
+.name{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black  1px;
+    font-size: 20px;
+}
+.message{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black  1px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.mail{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black  1px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.e-{
+    padding-top: 20px;
+}
+.sub{
+    background-color:rgb(246, 92, 92);
+    width: 95px;
+    padding:5px;
+    border-radius: 3px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.sub:hover{
+    background-color: rgb(85, 230, 85);
+}
